@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Robwestwoodcodes
-- 👀 I’m interested in changing my path, learning web development to enevtually become a software developer.
+- 👀 Learning web development through, initially, The Odin Project, to enventually become a software developer.
 - 🌱 I’m currently learning markup languages HTML5 and CSS3. Then the programming language Javascript and take it from there.
 - 💞️ I’m looking to collaborate on projects in the future, though for now Im learning to crawl.
 - 📫 How to reach me; Will post social media/ contact links when I have grounded myself in the basics.
