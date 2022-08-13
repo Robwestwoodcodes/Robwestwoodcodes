@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
 </div>  
   
 
@@ -36,27 +36,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
