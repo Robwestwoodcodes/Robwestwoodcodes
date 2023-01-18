@@ -6,16 +6,16 @@
 ### <div align="center">I'm Rob, Full-stack web development 🎯, Mountain goat ⛰️ and tech enthusiast  🤓</div>  
   
 <div align="center">
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/about)  
+ 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/about)  
   
 
-- 🌱 I’m currently learning CSS3/ JavaScript.   
+ 🌱 I’m currently learning CSS3/ JavaScript.   
   
 
-- ❓ Always open to lend a hand whenever I can!  
+❓ Always open to lend a hand whenever I can!  
   
 
-- ⚡ Fun fact: Clean code is the way to go!  
+⚡ Fun fact: Clean code is the way to go!  
 </div>  
 
 <br/>  
