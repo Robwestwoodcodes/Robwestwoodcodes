@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Rob, Full-stack web development 🎯, Mountain goat ⛰️ and tech enthusiast  🤓</div>  
   
-
+<div align="center">
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/about)  
   
 
@@ -16,7 +16,7 @@
   
 
 - ⚡ Fun fact: Clean code is the way to go!  
-  
+</div>  
 
 <br/>  
 
