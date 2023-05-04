@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rob, Full-stack web development 🎯, Mountain goat ⛰️ and tech enthusiast  🤓</div>  
+### <div align="center">I'm Rob, Full-stack web development and Data Analytics</div>  
   
 <div align="center">
 🔭 I’m currently working on [The Odin Project] (https://www.theodinproject.com/about).  
@@ -15,7 +15,7 @@
 ❓ Always open to lend a hand whenever I can!  
   
 
-⚡ Fun fact: Clean code is the way to go!  
+⚡ Interests outside of the computer: Scuba diving, mountaineering, climbing and reading. 
 </div>  
 
 <br/>  
