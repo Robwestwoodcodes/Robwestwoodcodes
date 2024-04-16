@@ -6,7 +6,8 @@
 ### <div align="center">I'm Rob, Full-stack web development and Data Analytics</div>  
   
 <div align="center">
-🔭 I’m currently working on [The Odin Project] (https://www.theodinproject.com/about), aswell as numorous other course/ personal projects.  
+🔭 I’m currently working on [The Odin Project] (https://www.theodinproject.com/about), aswell as numorous other course/ personal projects.
+  
   
 
 🌱 Front end skillset(Html/CSS, Javascript) alongside back-end knowledge. Strong analytical toolset that includes advanced excel, power BI, python, SQL.   
